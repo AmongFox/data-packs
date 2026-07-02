@@ -1,3 +1,0 @@
-$say $(text)
-
-kill @s

@@ -1,1 +1,0 @@
-schedule function backrooms:schedule/30s 30s replace
