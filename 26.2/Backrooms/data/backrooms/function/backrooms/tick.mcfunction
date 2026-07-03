@@ -3,7 +3,7 @@ execute in backrooms:backrooms unless entity @e[tag=backrooms.marker.room.center
 
 
 # Structure
-execute as @a[predicate=backrooms:in_backrooms] at @s as @n[tag=backrooms.marker.room.center,tag=!backrooms.marker.room.center.load,predicate=backrooms:in_backrooms,distance=..100] at @s run function backrooms:entity/marker/room/center/load
+execute as @a[predicate=backrooms:in_backrooms] at @s as @n[tag=backrooms.marker.room.center,tag=!backrooms.marker.room.center.load,predicate=backrooms:in_backrooms,distance=..50] at @s run function backrooms:entity/marker/room/center/load
 
 
 # Shadow Monster

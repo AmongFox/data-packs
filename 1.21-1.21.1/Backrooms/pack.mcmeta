@@ -1,0 +1,19 @@
+{
+	"pack": {
+		"pack_format": 48,
+		"description": [
+			{
+				"text": "Backrooms",
+				"color": "#92802f"
+			},
+			{
+				"text": " - \nBy ",
+				"color": "gray"
+			},
+			{
+				"text": "modrinth.com/user/lullaby",
+				"color": "#683edd"
+			}
+		]
+	}
+}
