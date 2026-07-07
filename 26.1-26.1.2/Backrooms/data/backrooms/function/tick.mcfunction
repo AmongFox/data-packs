@@ -3,7 +3,7 @@ execute as @a at @s run function backrooms:entity/player/tick
 
 
 # Backrooms
-execute if entity @a[predicate=backrooms:in_backrooms] run function backrooms:backrooms/tick
+execute if entity @a[predicate=backrooms:in_backrooms] in backrooms:backrooms run function backrooms:backrooms/tick
 
 
 # Shadow Monster

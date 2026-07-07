@@ -5,7 +5,7 @@ execute if predicate {\
     "chance": 0.5\
 } run return fail
 
-execute store result score @s backrooms.random.entity.shadow_monster.sound.ambient run random value 1..16
+execute store result score @s backrooms.random.entity.shadow_monster.sound.ambient run random value 1..14
 
 function backrooms:entity/shadow_monster/sound/ambient/playsound
 

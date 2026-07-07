@@ -13,7 +13,4 @@ execute if score @s backrooms.random.entity.shadow_monster.sound.ambient matches
 execute if score @s backrooms.random.entity.shadow_monster.sound.ambient matches 12 run return run playsound minecraft:entity.enderman.ambient master @a ~ ~ ~ 2.5 0
 execute if score @s backrooms.random.entity.shadow_monster.sound.ambient matches 13 run return run playsound minecraft:entity.enderman.stare master @a ~ ~ ~ 2.5 0
 
-execute if score @s backrooms.random.entity.shadow_monster.sound.ambient matches 14 run return run playsound minecraft:entity.creaking.ambient master @a ~ ~ ~ 2.5 0
-execute if score @s backrooms.random.entity.shadow_monster.sound.ambient matches 15 run return run playsound minecraft:entity.creaking.step master @a ~ ~ ~ 2.5 0
-
-execute if score @s backrooms.random.entity.shadow_monster.sound.ambient matches 16 run return run playsound minecraft:entity.vex.ambient master @a ~ ~ ~ 2.5 0
+execute if score @s backrooms.random.entity.shadow_monster.sound.ambient matches 14 run return run playsound minecraft:entity.vex.ambient master @a ~ ~ ~ 2.5 0

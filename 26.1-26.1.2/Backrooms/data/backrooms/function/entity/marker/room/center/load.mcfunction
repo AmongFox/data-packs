@@ -9,5 +9,10 @@ execute positioned ~37 ~-1 ~ run function backrooms:backrooms/place/load
 
 execute if predicate {\
     "condition": "minecraft:random_chance",\
-    "chance": 0.05\
-} positioned ~18 ~ ~18 unless entity @a[distance=..25] run return run function backrooms:entity/door/leave/summon
+    "chance": 0.1\
+} positioned ~18 ~ ~18 unless entity @a[distance=..35] run function backrooms:entity/marker/room/center/chest/prepare
+
+execute if predicate {\
+    "condition": "minecraft:random_chance",\
+    "chance": 0.01\
+} positioned ~18 ~ ~18 unless entity @a[distance=..35] run function backrooms:entity/door/leave/summon
