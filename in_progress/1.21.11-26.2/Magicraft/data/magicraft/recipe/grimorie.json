@@ -36,11 +36,7 @@
 				"sound": "minecraft:item.book.page_turn",
 				"has_consume_particles": false
 			},
-			"piercing_weapon": {
-				"min_reach": 0.0,
-				"max_reach": 0.0,
-				"hitbox_margin": 0.0
-			},
+			"piercing_weapon": {},
 			"enchantments": {
 				"magicraft:grimorie": 1
 			},

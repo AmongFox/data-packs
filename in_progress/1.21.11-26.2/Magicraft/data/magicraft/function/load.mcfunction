@@ -19,6 +19,7 @@ scoreboard objectives add magicraft.player.leave minecraft.custom:minecraft.leav
 scoreboard objectives add magicraft.player.trigger.select_spell trigger
 
 schedule function magicraft:schedule/mana 5s replace
+schedule function magicraft:schedule/wandering_trader 2s replace
 
 function magicraft:load/spells
 

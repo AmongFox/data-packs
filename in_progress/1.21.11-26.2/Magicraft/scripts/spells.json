@@ -12,15 +12,21 @@
     "spectra_arrow_shoot",
     "spectral_arrow_rain"
   ],
+  "cobweb": [
+    "cobweb_area",
+    "cobweb_circle",
+    "cobweb_tail",
+    "cobweb_wall"
+  ],
   "ender": [
+    "catch",
+    "dragon_fireball",
     "ender_pearl",
     "levitate",
     "levitation_area",
-    "dragon_fireball",
-    "teleport",
+    "replace",
     "skip",
-    "catch",
-    "replace"
+    "teleport"
   ],
   "fangs": [
     "fangs_area",
@@ -48,6 +54,12 @@
     "small_iceball",
     "strog_iceball"
   ],
+  "leave": [
+    "leaves_bunker",
+    "leaves_floor",
+    "leaves_stair",
+    "leaves_wall"
+  ],
   "life": [
     "cure",
     "double_life",
@@ -58,12 +70,6 @@
   ],
   "poison": [
     "poison_area"
-  ],
-  "cobweb": [
-    "cobweb_area",
-    "cobweb_circle",
-    "cobweb_tail",
-    "cobweb_wall"
   ],
   "sculk": [
     "darkness_area",

@@ -3,7 +3,7 @@ scoreboard players remove @s magicraft.player.mana.value 1
 
 function magicraft:utils/motion/storage {"value":"-0.003"}
 
-execute anchored eyes positioned ^ ^ ^.5 run summon minecraft:arrow ~ ~ ~ {Tags:["magicraft.spell.arrow.arrow_shoot"],player:1b,pickup:0b}
+execute anchored eyes positioned ^ ^ ^.5 run summon minecraft:arrow ~ ~ ~ {Tags:["magicraft.spell.arrow.arrow_shoot"],pickup:0b}
 
 data modify entity @n[tag=magicraft.spell.arrow.arrow_shoot] Owner set from entity @s UUID
 
