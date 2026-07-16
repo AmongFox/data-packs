@@ -18,6 +18,6 @@
         }
     },
     "rewards": {
-        "function": "graves:player/leave"
+        "function": "graves:internal/playerleave"
     }
 }

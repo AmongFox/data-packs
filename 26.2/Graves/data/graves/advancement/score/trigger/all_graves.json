@@ -18,6 +18,6 @@
         }
     },
     "rewards": {
-        "function": "graves:player/trigger/use/all_graves"
+        "function": "graves:internal/playertrigger/use/all_graves"
     }
 }

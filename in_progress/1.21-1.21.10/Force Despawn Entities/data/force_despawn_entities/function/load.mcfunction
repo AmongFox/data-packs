@@ -1,1 +1,0 @@
-scoreboard objectives add force_despawn_entities.entity.time dummy

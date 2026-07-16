@@ -1,0 +1,70 @@
+{
+  "air": {
+    "color": "white",
+    "item": "wind_charge"
+  },
+  "arrow": {
+    "color": "gray",
+    "item": "arrow"
+  },
+  "buff": {
+    "color": "red",
+    "item": "blaze_powder"
+  },
+  "cobweb": {
+    "color": "white",
+    "item": "string"
+  },
+  "debuff": {
+    "color": "green",
+    "item": "spider_eye"
+  },
+  "ender": {
+    "color": "light_purple",
+    "item": "ender_pearl"
+  },
+  "fangs": {
+    "color": "gray",
+    "item": "totem_of_undying"
+  },
+  "fire": {
+    "color": "red",
+    "item": "blaze_powder"
+  },
+  "ice": {
+    "color": "aqua",
+    "item": "snowball"
+  },
+  "leave": {
+    "color": "dark_green",
+    "item": "oak_leaves"
+  },
+  "life": {
+    "color": "red",
+    "item": "apple"
+  },
+  "lightning": {
+    "color": "yellow",
+    "item": "lightning_rod"
+  },
+  "poison": {
+    "color": "dark_green",
+    "item": "spider_eye"
+  },
+  "sculk": {
+    "color": "dark_blue",
+    "item": "echo_shard"
+  },
+  "summon": {
+    "color": "yellow",
+    "item": "egg"
+  },
+  "water": {
+    "color": "blue",
+    "item": "water_bucket"
+  },
+  "wither": {
+    "color": "dark_gray",
+    "item": "wither_skeleton_spawn_egg"
+  }
+}

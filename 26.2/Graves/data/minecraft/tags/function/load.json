@@ -1,5 +1,5 @@
 {
 	"values":[
-		"graves:load"
+		"graves:internal/load"
 	]
 }

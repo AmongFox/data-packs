@@ -5,6 +5,6 @@
       }
     },
     "rewards": {
-      "function": "graves:player/load"
+      "function": "graves:internal/playerload"
     }
 }

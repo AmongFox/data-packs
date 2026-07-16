@@ -1,0 +1,2 @@
+gamerule minecraft:keep_inventory true
+gamerule minecraft:immediate_respawn false
