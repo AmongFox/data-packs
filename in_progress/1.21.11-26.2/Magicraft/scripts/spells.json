@@ -13,10 +13,14 @@
     "spectral_arrow_rain"
   ],
   "ender": [
-    "dragon_fireball",
     "ender_pearl",
     "levitate",
-    "levitation_area"
+    "levitation_area",
+    "dragon_fireball",
+    "teleport",
+    "skip",
+    "catch",
+    "replace"
   ],
   "fangs": [
     "fangs_area",
